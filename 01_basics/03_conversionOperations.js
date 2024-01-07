@@ -1,3 +1,5 @@
+//********************CONVERSIONS***********************/
+
 //Conversion Into NUMBER
 
 // let score=45;
@@ -57,12 +59,15 @@
 // let number=null;
 // let number=undefined;
 
-let valueOfNumberIntoString=String(number)
-console.log(valueOfNumberIntoString);
-console.log(typeof valueOfNumberIntoString);
+// let valueOfNumberIntoString=String(number)
+// console.log(valueOfNumberIntoString);
+// console.log(typeof valueOfNumberIntoString);
 
 // 1 => 1 as a string
 // true => true as a string
 // false => false as a string
 // null => null as a string
 // undefined => undefined as a string
+
+//***********************OPERATIONS*************************/
+// console.log("hii");

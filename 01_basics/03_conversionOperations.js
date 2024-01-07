@@ -9,7 +9,7 @@
 // let score=true;
 // let score=false;
 // let score="mahesh";
-// let score="";
+let score="";
 
 // console.log(typeof score);
 // console.log(typeof (score));
@@ -70,4 +70,25 @@
 // undefined => undefined as a string
 
 //***********************OPERATIONS*************************/
-// console.log("hii");
+
+// console.log(2+2);
+// console.log(2-2);
+// console.log(2*2);
+// console.log(2**3);
+// console.log(2/3);
+// console.log(2%3)
+
+// let str1="hello";
+// let str2=" mahesh";
+// console.log(str1+str2);
+
+// console.log("1"+2);
+// console.log(1+"2");
+// console.log(1+1+"2");
+// console.log("2"+1+2);
+// console.log(3+2+"2"+1+2);
+// console.log(3+4*5%3);
+// console.log(+true);
+// console.log(+"");
+
+//check for prefix and postfix
